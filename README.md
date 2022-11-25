@@ -17,4 +17,4 @@ telling you that writing a simple application in RPC will be hard and writing an
 * It is interpreted
 * It is designed like a compiled language 
 * It is designed with the Go programming language 
-* it is a wacky language that will make you question you're life
+* it is a wacky language that will make you question your life
