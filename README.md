@@ -18,3 +18,7 @@ telling you that writing a simple application in RPC will be hard and writing an
 * It is designed like a compiled language 
 * It is designed with the Go programming language 
 * it is a wacky language that will make you question your life
+
+Unlike most tutorials we will not start off with a hello world program, for not this tutorial will rather be a decent introduction as to how the language is currently designed, how it may change, why it was created and why there are or will be prerequisite's to learning the language.
+
+# RPC's design 
